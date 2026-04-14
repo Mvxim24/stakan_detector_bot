@@ -7,7 +7,7 @@ import os
 # --- НАСТРОЙКИ ---
 TOKEN = '8726753006:AAGI8F1B63zi0UyqtMHN3nYg4UwJh6owFaY'
 SYMBOLS = ['BTC/USDT', 'ETH/USDT']
-WALL_MULTIPLIER = 15
+WALL_MULTIPLIER = 25
 USERS_FILE = 'users.json'
 
 bot = telebot.TeleBot(TOKEN)
